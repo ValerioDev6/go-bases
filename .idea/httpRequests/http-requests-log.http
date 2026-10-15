@@ -1,0 +1,62 @@
+GET http://localhost:8080/books/1
+
+<> 2026-10-14T174853.500.txt
+
+###
+GET http://localhost:8080/books
+
+<> 2026-10-14T174848.200.json
+
+###
+DELETE http://localhost:8080/books/1
+
+###
+GET http://localhost:8080/books/1
+
+<> 2026-10-14T174839.200.json
+
+###
+GET http://localhost:8080/books/1
+
+<> 2026-10-14T174653.400.txt
+
+###
+GET http://localhost:8080/books/1
+
+<> 2026-10-14T174644.400.txt
+
+###
+GET http://localhost:8080/books
+
+<> 2026-10-14T174630.200.json
+
+###
+POST http://localhost:8080/books
+Content-Type: application/json
+
+{
+  "title": "El Valerio",
+  "author": "Chente",
+  "price": 26.5
+}
+
+<> 2026-10-14T174627.201.txt
+
+###
+POST http://localhost:8080/books
+Content-Type: application/json
+
+{
+  "title": "El Quijote",
+  "author": "Cervantes",
+  "price": 25.5
+}
+
+<> 2026-10-14T174610.201.txt
+
+###
+GET http://localhost:8080/books
+
+<> 2026-10-14T174605.200.json
+
+###

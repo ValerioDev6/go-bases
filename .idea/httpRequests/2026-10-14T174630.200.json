@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "El Quijote",
+    "author": "Cervantes",
+    "price": 25.5
+  },
+  {
+    "id": 2,
+    "title": "El Valerio",
+    "author": "Chente",
+    "price": 26.5
+  }
+]

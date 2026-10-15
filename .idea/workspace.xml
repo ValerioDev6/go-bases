@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="551db263-fc03-4352-b8ef-e43a47a164d9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseLocalColorSettings">
+    <colors>
+      <entry key="99832d74-b7a2-4651-8d7e-cc76f75e5366" value="" />
+    </colors>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file:///usr/lib/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HttpClientOnboardingState">{
+  &quot;isOnboardingCommentShown&quot;: true
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000014881363" />
+      <entry key="MS500" value="1.023512695286154" />
+      <entry key="S2" value="1.9252149849587787" />
+      <entry key="S5" value="4.173284350214091" />
+      <entry key="S10" value="6.984976597541025" />
+      <entry key="S30" value="11.253410705663448" />
+      <entry key="S60" value="12.936554923609645" />
+      <entry key="M2" value="13.914980702924085" />
+      <entry key="M5" value="14.552382130467594" />
+      <entry key="M10" value="14.79094692321846" />
+      <entry key="M15" value="15.135763901477983" />
+      <entry key="M30" value="20.48704624070929" />
+      <entry key="H1" value="42.98888305143351" />
+      <entry key="H2" value="103.96806859357095" />
+      <entry key="H4" value="244.1493142749928" />
+      <entry key="D1" value="683.4520395268622" />
+      <entry key="W1" value="837.5477536481029" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="4.97346907582208E-236" />
+      <entry key="S30" value="4.0574651942471726E-79" />
+      <entry key="S60" value="9.999340643184255E-40" />
+      <entry key="M2" value="8.012726431244738E-20" />
+      <entry key="M5" value="1.0036791528626394E-7" />
+      <entry key="M10" value="0.0011985270550714197" />
+      <entry key="M15" value="0.028087388584025166" />
+      <entry key="M30" value="0.6913629465977323" />
+      <entry key="H1" value="4.201033013779371" />
+      <entry key="H2" value="17.608260114237094" />
+      <entry key="H4" value="53.172364729974156" />
+      <entry key="D1" value="168.98903938789127" />
+      <entry key="W1" value="210.11842627018973" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8645372326123739" />
+      <entry key="MS500" value="0.9942016980173873" />
+      <entry key="S2" value="1.9108382549081755" />
+      <entry key="S5" value="4.158954742012514" />
+      <entry key="S10" value="6.972104417639226" />
+      <entry key="S30" value="11.246137942701372" />
+      <entry key="S60" value="12.932318755038962" />
+      <entry key="M2" value="13.912686975019522" />
+      <entry key="M5" value="14.551418774164462" />
+      <entry key="M10" value="14.79164791162412" />
+      <entry key="M15" value="15.163407027303816" />
+      <entry key="M30" value="21.176859968627394" />
+      <entry key="H1" value="47.185877423288204" />
+      <entry key="H2" value="121.56930077409035" />
+      <entry key="H4" value="297.3124583335689" />
+      <entry key="D1" value="852.4366657358374" />
+      <entry key="W1" value="1047.6654070650095" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Kc9mGm5c8EYgt306bMqHwCmXFn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go File",
+    "Go Build.go build main.go.executor": "Run",
+    "Go Build.go build web/.executor": "Run",
+    "Go Build.go build web/cmd/server.executor": "Run",
+    "HTTP Request.sandbox | Borrar.executor": "Run",
+    "HTTP Request.sandbox | Crear.executor": "Run",
+    "HTTP Request.sandbox | Listar todos.executor": "Run",
+    "HTTP Request.sandbox | Obtener uno.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.GoLinterPluginOnboardingV2": "true",
+    "RunOnceActivity.GoLinterPluginStorageMigration": "true",
+    "RunOnceActivity.GoOptimizationToolWindowEnableInLayout.v333333": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.analysis.ui.options.defaults": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "go.sdk.automatically.set": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/home/elis/ti/go-course/web",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlite"
+    ]
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="GoApplicationRunConfiguration" />
+      </set>
+    </option>
+    <option name="configurationStatuses">
+      <map>
+        <entry key="GoApplicationRunConfiguration">
+          <value>
+            <map>
+              <entry key="go build web/" value="STOPPED" />
+            </map>
+          </value>
+        </entry>
+        <entry key="HttpClient.HttpRequestRunConfigurationType">
+          <value>
+            <map>
+              <entry key="sandbox | Borrar" value="STOPPED" />
+              <entry key="sandbox | Crear" value="STOPPED" />
+              <entry key="sandbox | Listar todos" value="STOPPED" />
+              <entry key="sandbox | Obtener uno" value="STOPPED" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build web/">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="web" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="web" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build web/" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="web" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="web" />
+      <directory value="$PROJECT_DIR$" />
+      <auto_managed_config_id value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build web/cmd/server" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="web" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="web/cmd/server" />
+      <directory value="$PROJECT_DIR$" />
+      <auto_managed_config_id value="$PROJECT_DIR$/cmd/server" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="web" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sandbox | Borrar" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/sandbox.http" executionIdentifier="Borrar" index="5" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="sandbox | Crear" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/sandbox.http" executionIdentifier="Crear" index="3" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="sandbox | Listar todos" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/sandbox.http" executionIdentifier="Listar todos" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="sandbox | Obtener uno" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/sandbox.http" executionIdentifier="Obtener uno" index="2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.sandbox | Obtener uno" />
+        <item itemvalue="HTTP Request.sandbox | Listar todos" />
+        <item itemvalue="HTTP Request.sandbox | Borrar" />
+        <item itemvalue="HTTP Request.sandbox | Crear" />
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-63c95d513abe-08e7ff217c2b-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-262.10968.67" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-GO-262.10968.67" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="551db263-fc03-4352-b8ef-e43a47a164d9" name="Changes" comment="" />
+      <created>1791846147118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791846147118</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoModernizerVersionTracker">
+    <upgrades>
+      <map>
+        <entry key="$PROJECT_DIR$/go.mod">
+          <value>
+            <VersionUpgradeInfo>
+              <version>1.27</version>
+              <timestamp>1791855320559</timestamp>
+            </VersionUpgradeInfo>
+          </value>
+        </entry>
+      </map>
+    </upgrades>
+  </component>
+</project>
