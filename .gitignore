@@ -1,4 +1,4 @@
 data/
-*.db-journal
-*.db-shm
-*.db-wal
+storage/*
+!storage/.gitkeep
+.env

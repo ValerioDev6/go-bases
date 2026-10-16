@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="551db263-fc03-4352-b8ef-e43a47a164d9" name="Changes" comment="" />
+    <list default="true" id="551db263-fc03-4352-b8ef-e43a47a164d9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/internal/auth/password.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AGENTS.md" beforeDir="false" afterPath="$PROJECT_DIR$/AGENTS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/books.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/model/book.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/service/book_service.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/store/book_store.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/transport/book_handler.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/build-errors.log" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/build-errors.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/main" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/main" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,61 +52,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000014881363" />
-      <entry key="MS500" value="1.023512695286154" />
-      <entry key="S2" value="1.9252149849587787" />
-      <entry key="S5" value="4.173284350214091" />
-      <entry key="S10" value="6.984976597541025" />
-      <entry key="S30" value="11.253410705663448" />
-      <entry key="S60" value="12.936554923609645" />
-      <entry key="M2" value="13.914980702924085" />
-      <entry key="M5" value="14.552382130467594" />
-      <entry key="M10" value="14.79094692321846" />
-      <entry key="M15" value="15.135763901477983" />
-      <entry key="M30" value="20.48704624070929" />
-      <entry key="H1" value="42.98888305143351" />
-      <entry key="H2" value="103.96806859357095" />
-      <entry key="H4" value="244.1493142749928" />
-      <entry key="D1" value="683.4520395268622" />
-      <entry key="W1" value="837.5477536481029" />
+      <entry key="MS100" value="1.000000000000085" />
+      <entry key="MS500" value="1.002431401585932" />
+      <entry key="S2" value="1.2320047352869523" />
+      <entry key="S5" value="1.8347862271458857" />
+      <entry key="S10" value="2.904877784675022" />
+      <entry key="S30" value="6.565165520847829" />
+      <entry key="S60" value="10.58919866983174" />
+      <entry key="M2" value="15.563158672053309" />
+      <entry key="M5" value="21.654222245645723" />
+      <entry key="M10" value="24.834947142186664" />
+      <entry key="M15" value="26.158369099446677" />
+      <entry key="M30" value="28.075148241227584" />
+      <entry key="H1" value="30.883939450509473" />
+      <entry key="H2" value="45.27107127290013" />
+      <entry key="H4" value="118.72217535633334" />
+      <entry key="D1" value="613.5226822528116" />
+      <entry key="W1" value="863.3044426076984" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="4.97346907582208E-236" />
-      <entry key="S30" value="4.0574651942471726E-79" />
-      <entry key="S60" value="9.999340643184255E-40" />
-      <entry key="M2" value="8.012726431244738E-20" />
-      <entry key="M5" value="1.0036791528626394E-7" />
-      <entry key="M10" value="0.0011985270550714197" />
-      <entry key="M15" value="0.028087388584025166" />
-      <entry key="M30" value="0.6913629465977323" />
-      <entry key="H1" value="4.201033013779371" />
-      <entry key="H2" value="17.608260114237094" />
-      <entry key="H4" value="53.172364729974156" />
-      <entry key="D1" value="168.98903938789127" />
-      <entry key="W1" value="210.11842627018973" />
+      <entry key="MS100" value="1.3227098847244326E-7" />
+      <entry key="MS500" value="0.04213427137411294" />
+      <entry key="S2" value="0.6009918542225237" />
+      <entry key="S5" value="1.7695984466175412" />
+      <entry key="S10" value="3.0612070512213947" />
+      <entry key="S30" value="5.0626853731766275" />
+      <entry key="S60" value="6.417817184861777" />
+      <entry key="M2" value="8.268070913700559" />
+      <entry key="M5" value="11.02949279338524" />
+      <entry key="M10" value="12.664709084612015" />
+      <entry key="M15" value="13.348406531414655" />
+      <entry key="M30" value="14.121861727124706" />
+      <entry key="H1" value="14.618428500462828" />
+      <entry key="H2" value="16.88187978798954" />
+      <entry key="H4" value="32.99220499200116" />
+      <entry key="D1" value="156.99331040991845" />
+      <entry key="W1" value="221.56294582034644" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8645372326123739" />
-      <entry key="MS500" value="0.9942016980173873" />
-      <entry key="S2" value="1.9108382549081755" />
-      <entry key="S5" value="4.158954742012514" />
-      <entry key="S10" value="6.972104417639226" />
-      <entry key="S30" value="11.246137942701372" />
-      <entry key="S60" value="12.932318755038962" />
-      <entry key="M2" value="13.912686975019522" />
-      <entry key="M5" value="14.551418774164462" />
-      <entry key="M10" value="14.79164791162412" />
-      <entry key="M15" value="15.163407027303816" />
-      <entry key="M30" value="21.176859968627394" />
-      <entry key="H1" value="47.185877423288204" />
-      <entry key="H2" value="121.56930077409035" />
-      <entry key="H4" value="297.3124583335689" />
-      <entry key="D1" value="852.4366657358374" />
-      <entry key="W1" value="1047.6654070650095" />
+      <entry key="MS100" value="0.0057190850548873955" />
+      <entry key="MS500" value="0.36909401020262195" />
+      <entry key="S2" value="1.3906974853932739" />
+      <entry key="S5" value="3.2064735539534874" />
+      <entry key="S10" value="5.603283230881416" />
+      <entry key="S30" value="11.37276021405322" />
+      <entry key="S60" value="16.817837235498466" />
+      <entry key="M2" value="23.699181578279077" />
+      <entry key="M5" value="32.61224071212038" />
+      <entry key="M10" value="37.458972660473584" />
+      <entry key="M15" value="39.47830492420155" />
+      <entry key="M30" value="42.18192536355524" />
+      <entry key="H1" value="45.49439589196105" />
+      <entry key="H2" value="62.1479575384774" />
+      <entry key="H4" value="151.70906246577673" />
+      <entry key="D1" value="770.5118963790272" />
+      <entry key="W1" value="1084.8665724683315" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -120,13 +137,14 @@
     "RunOnceActivity.GoOptimizationToolWindowEnableInLayout.v333333": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.go.analysis.ui.options.defaults": "true",
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "feature/api",
     "go.sdk.automatically.set": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "/home/elis/ti/go-course/web",
@@ -134,7 +152,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "to.speed.mode.migration.done": "true"
   },
   "keyToStringList": {
@@ -273,5 +291,16 @@
         </entry>
       </map>
     </upgrades>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/internal/user/store.go</url>
+          <line>20</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

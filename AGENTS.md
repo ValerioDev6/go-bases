@@ -12,8 +12,6 @@ Run commands from the repository root with a toolchain compatible with the `go 1
 
 - `go run ./cmd/server` — start the HTTP server.
 - `go build ./...` — compile all packages.
-- `go test ./...` — run all package tests.
-- `go test -cover ./...` — report test coverage.
 - `go vet ./...` — run Go's static checks.
 - `gofmt -w cmd internal pkg` — format Go source files.
 
@@ -25,7 +23,7 @@ Use `gofmt` formatting, including tabs for indentation. Use lowercase package na
 
 ## Testing Guidelines
 
-No tests or coverage threshold are currently defined. Add colocated `*_test.go` files with `TestXxx` functions using Go's `testing` package. Use `net/http/httptest` for routes and middleware, and `t.Setenv` for configuration tests. Cover successful requests, invalid methods, and configuration defaults.
+Do not create, modify, or run tests unless the user explicitly requests testing. When requested, keep the tests colocated and limit them to the requested scope.
 
 ## Commit & Pull Request Guidelines
 

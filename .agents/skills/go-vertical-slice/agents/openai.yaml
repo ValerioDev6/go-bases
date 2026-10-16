@@ -1,0 +1,4 @@
+interface:
+  display_name: "Go Vertical Slice"
+  short_description: "Arquitectura vertical slice profesional para Go"
+  default_prompt: "Usa $go-vertical-slice para aplicar Vertical Slice Architecture en Go: organiza por feature, conserva la dirección Handler → Service → Store, usa DTOs y el sobre JSON compartido, evita frameworks y no realices tests salvo que yo los solicite."
